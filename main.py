@@ -1,3 +1,4 @@
+CODE IS DISABLED
 import keepalive
 keepalive.keep_alive()
 import os
